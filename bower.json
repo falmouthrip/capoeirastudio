@@ -14,7 +14,8 @@
     "FitText.js": "jquery-fittext.js#^1.2.0",
     "wow": "wowjs#^1.1.2",
     "vegas": "^2.2.1",
-    "font-awesome": "^4.6.3"
+    "font-awesome": "^4.6.3",
+    "animate.css": "^3.5.1"
   },
   "overrides": {
     "bootstrap-sass": {
