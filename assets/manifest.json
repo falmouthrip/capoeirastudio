@@ -9,7 +9,7 @@
     },
     "main.css": {
       "files": [
-        "styles/vegas.min.css",
+        "styles/creative.css",
         "styles/main.scss"
       ],
       "main": true

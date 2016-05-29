@@ -17,22 +17,10 @@
 	<meta property="og:url" content="http://www.capoeirastudio.com/" />
 	<meta property="og:description" content="The community of teachers and students at the Capoeira Studio are focused on improving strength, flexibility, agility, balance, concentration, rhythm, and quality of life through the creative and beautiful movement of the Afro-Brazilian art form called Capoeira." />
 
-	<!-- Bootstrap Core CSS -->
-	<link rel="stylesheet" href="css/bootstrap.min.css" type="text/css">
-
 	<!-- Custom Fonts -->
 	<link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
 	<link href='http://fonts.googleapis.com/css?family=Merriweather:400,300,300italic,400italic,700,700italic,900,900italic' rel='stylesheet' type='text/css'>
-	<link rel="stylesheet" href="font-awesome/css/font-awesome.min.css" type="text/css">
-	<link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet">
 
-	<!-- Plugin CSS -->
-	<link rel="stylesheet" href="css/animate.min.css" type="text/css">
-	<link rel="stylesheet" href="css/vegas.min.css" type="text/css">
-
-	<!-- Custom CSS -->
-	<link rel="stylesheet" href="css/creative.css" type="text/css">
-	<link rel="stylesheet" href="css/customized.css" type="text/css">
 
 	<!-- FAVICON.ICO -->
 	<link rel="shortcut icon" href="https://s3-ap-northeast-1.amazonaws.com/www-capoeirastudio-com/favicons/favicon.ico" />
