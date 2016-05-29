@@ -9,6 +9,7 @@
     },
     "main.css": {
       "files": [
+        "styles/**/*",
         "styles/main.scss"
       ],
       "main": true
