@@ -9,8 +9,8 @@
     },
     "main.css": {
       "files": [
-        "styles/**/*",
-        "styles/main.scss"
+        "styles/main.scss",
+        "styles/vegas.min.css"
       ],
       "main": true
     },
