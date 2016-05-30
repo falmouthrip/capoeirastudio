@@ -12,7 +12,7 @@ use Roots\Sage\Wrapper;
         <?php _e('You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.', 'sage'); ?>
       </div>
     <![endif]-->
-    <div class="wrap container" role="document">
+    <div class="wrap container-fluid" role="document">
       <div class="content row">
         <main class="main">
           <?php include Wrapper\template_path(); ?>
