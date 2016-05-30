@@ -10,7 +10,27 @@
 			<p>대표자: Munair Simpson</p>
 		</div>
 		<div class="row">
-    			<?php dynamic_sidebar('sidebar-footer'); ?>
+<?php 
+	if(is_active_sidebar( 'sidebar-footer' ) || is_active_sidebar( 'sidebar-footer-2' ) || is_active_sidebar( 'sidebar-footer-3' )):
+		echo '<div class="footer-widget-wrap"><div class="container">';
+		if(is_active_sidebar( 'sidebar-footer' )):
+			echo '<div class="footer-widget col-xs-12 col-sm-4">';
+			dynamic_sidebar( 'sidebar-footer' );
+			echo '</div>';
+		endif;
+		if(is_active_sidebar( 'sidebar-footer-2' )):
+			echo '<div class="footer-widget col-xs-12 col-sm-4">';
+			dynamic_sidebar( 'sidebar-footer-2' );
+			echo '</div>';
+		endif;
+		if(is_active_sidebar( 'sidebar-footer-3' )):
+			echo '<div class="footer-widget col-xs-12 col-sm-4">';
+			dynamic_sidebar( 'sidebar-footer-3' );
+			echo '</div>';
+		endif;
+		echo '</div></div>';
+	endif;
+?>
 		</div>
 	</div>
 </footer>
