@@ -9,6 +9,8 @@
     },
     "main.css": {
       "files": [
+        "styles/creative.css",
+	"styles/custom.css",
         "styles/main.scss"
       ],
       "main": true
