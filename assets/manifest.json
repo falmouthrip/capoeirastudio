@@ -9,11 +9,19 @@
     },
     "main.css": {
       "files": [
-        "styles/main.scss",
-        "styles/creative.css",
-	"styles/custom.css"
+        "styles/main.scss"
       ],
       "main": true
+    },
+    "creative.css": {
+      "files": [
+        "styles/creative.css"
+      ]
+    },
+    "custom.css": {
+      "files": [
+        "styles/custom.css"
+      ]
     },
     "customizer.js": {
       "files": [
