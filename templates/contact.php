@@ -26,7 +26,7 @@
 			<div class="col-lg-8 col-lg-offset-2 text-center">
                                 <hr class="light">
 				<hr class="primary">
-                                <a href="http://www-capoeirastudio.rhcloud.com/madeira-boa/" class="btn btn-primary btn-xl wow bounceIn" data-wow-delay=".1s">블로그<br>Blog</a>
+                                <a href="/madeira-boa/" class="btn btn-primary btn-xl wow bounceIn" data-wow-delay=".1s">블로그<br>Blog</a>
 			</div>
 		</div>
 	</div>
