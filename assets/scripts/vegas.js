@@ -1,4 +1,4 @@
-$("header").vegas({
+$("header-content").vegas({
       timer: false,
       delay: 17000,
       preload: true,
