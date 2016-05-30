@@ -1,7 +1,7 @@
 <header>
 	<div class="header-content">
 		<div class="header-content-inner">
-			<h1>Creative Movement. Serious Fitness.</h1>
+			<h1>Creative Movement.<br> Serious Fitness.</h1>
 			<hr>
 			<p>dance, play, sing and above all move creatively</p>
 			<a href="#intro" class="btn btn-primary btn-xl page-scroll wow bounceIn" data-wow-delay=".1s">더 보기 <br>Find Out More</a>
