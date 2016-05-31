@@ -26,8 +26,9 @@
 		<div class="entry-content">
 			<div class="container-fluid">
 				<div class="row">
-					<div class="col-md-6 col-md-offset-3">
+					<div class="col-md-8 col-md-offset-2">
 						<?php the_content(); ?>
+	    					<?php comments_template('/templates/comments.php'); ?>
 					</div>
 				</div>
 			</div>
@@ -35,6 +36,5 @@
 		<footer>
 			<?php wp_link_pages(['before' => '<nav class="page-nav"><p>' . __('Pages:', 'sage'), 'after' => '</p></nav>']); ?>
 		</footer>
-	    	<?php comments_template('/templates/comments.php'); ?>
 	</article>
 <?php endwhile; ?>
