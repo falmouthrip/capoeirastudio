@@ -12,8 +12,8 @@
 		                        <img class="scroll-down" src="https://s3-ap-northeast-1.amazonaws.com/www-capoeirastudio-com/capoeirastudio-whitealpha-icon-600x600px.png" />
 		                </a>
 		                <h1><?php bloginfo('name'); ?></h1>
+		      		<h3>Blog Entry</h3>
 		      		<h2 class="entry-title"><?php the_title(); ?></h2>
-		      		<p>Blog Entry</p>
 				<?php get_template_part('templates/entry-meta'); ?>
 		                <nav class="nav-primary">
 		                        <?php
