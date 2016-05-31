@@ -2,15 +2,15 @@
 --Fade In
 -----------------------------------------------  */
 @include keyframes(fade-in) {
-  0%{ opacity: 0 }
-  100%{ opacity: 1 }
+  0%{ opacity: 0 };
+  100%{ opacity: 1 };
 }
 
 /*----------------------------------------------
 --Fade Out (for Banner)
 -----------------------------------------------  */
 @include keyframes(fade-out) {
-  33%{ opacity: 1 }
-  66%{ opacity: 0 }
+  33%{ opacity: 1 };
+  66%{ opacity: 0 };
 }
 
