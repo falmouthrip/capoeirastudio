@@ -10,11 +10,11 @@
 		<div class="row">
 	                <div class="col-md-3">
 	                        <h2 class="wow bounceIn" data-wow-delay=".1s">LINKS</h2>
-	                        <p><a href="#about">About</a></p>
-	                        <p><a href="#classes">Classes</a></p>
-	                        <p><a href="#teachers">Teachers</a></p>
-	                        <p><a href="#pricing">Pricing</a></p>
-	                        <p><a href="#contact">Contact</a></p>
+	                        <p><a href="<?php echo get_site_url(); ?>#about">About</a></p>
+	                        <p><a href="<?php echo get_site_url(); ?>#classes">Classes</a></p>
+	                        <p><a href="<?php echo get_site_url(); ?>#teachers">Teachers</a></p>
+	                        <p><a href="<?php echo get_site_url(); ?>#pricing">Pricing</a></p>
+	                        <p><a href="<?php echo get_site_url(); ?>#contact">Contact</a></p>
 	                </div>
 	                <div class="col-md-3">
 	                        <h2 class="wow bounceIn" data-wow-delay=".1s">RECENT POSTS</h2>
