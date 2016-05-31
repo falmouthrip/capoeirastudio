@@ -96,6 +96,7 @@ function display_sidebar() {
  */
 function assets() {
   wp_enqueue_style('sage/css', Assets\asset_path('styles/main.css'), false, null);
+  wp_enqueue_style('animate/css', Assets\asset_path('styles/animate.css'), false, null);
   wp_enqueue_style('vegas/css', Assets\asset_path('styles/vegas.css'), false, null);
   wp_enqueue_style('creative/css', Assets\asset_path('styles/creative.css'), false, null);
   wp_enqueue_style('custom/css', Assets\asset_path('styles/custom.css'), false, null);
