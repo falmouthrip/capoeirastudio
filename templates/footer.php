@@ -29,10 +29,6 @@
 	                <div class="col-md-3">
 	                        <h2 class="wow bounceIn" data-wow-delay=".1s">META</h2>
 	                        <p><a href=""><?php wp_register(); ?></a></p>
-	                        <p><a href=""><?php wp_loginout(); ?></a></p>
-	                        <p><a href=""><?php bloginfo('rss2_url'); ?></a></p>
-	                        <p><a href=""><?php bloginfo('comments_rss2_url'); ?></a></p>
-	                        <p><a href=""><?php esc_attr_e( 'http://wordpress.org/' ); ?></a></p>
 	                </div>
 	                <div class="col-md-3">
 	                        <h2 class="wow bounceIn" data-wow-delay=".1s">REGISTRATION</h2>
