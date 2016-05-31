@@ -26,6 +26,15 @@
 		h1 {
 			@include animation(fade-in ease-in-out 2s 0.5s both);
 		}
+		img {
+			transition: all ease-out 4s;
+			width: 78px;
+			border: 1px solid white;
+			border-radius: 40px;
+		}
+		img:hover {
+			transform: rotate(-90deg);
+		}
 	}
 	p {
 		font-size: 90%;
@@ -37,20 +46,11 @@
 		margin: 0.5em 0;
 		@include animation(fade-in ease-in-out 2s 1s both);
 	}
-	img {
-		transition: all ease-out 4s;
-		width: 78px;
-		border: 1px solid white;
-		border-radius: 40px;
-	}
 	span{
 		margin-bottom: 1em;
 	}
 	span:hover {
 		@include animation(rubber-band ease-in-out 3s);
-	}
-	img:hover {
-		transform: rotate(-90deg);
 	}
 	a {
 		text-decoration: none;
