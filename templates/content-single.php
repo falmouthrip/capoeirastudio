@@ -13,7 +13,8 @@
 		                </a>
 		                <h1><?php bloginfo('name'); ?></h1>
 		      		<h2 class="entry-title"><?php the_title(); ?></h2>
-		      		<?php get_template_part('templates/entry-meta'); ?>
+		      		<p>Blog Entry</p>
+				<?php get_template_part('templates/entry-meta'); ?>
 		                <nav class="nav-primary">
 		                        <?php
 		                                if (has_nav_menu('primary_navigation')) :
@@ -28,6 +29,8 @@
 				<div class="row">
 					<div class="col-md-8 col-md-offset-2">
 						<?php the_content(); ?>
+						<?php wp_link_pages( array( 'before' => '<div class="page-link">' . __( 'Pages:', 'samba-capoeira' ), 'after' => '</div>' ) ); ?>
+					<?php posts_nav_link(); ?>
 	    					<?php comments_template('/templates/comments.php'); ?>
 					</div>
 				</div>
