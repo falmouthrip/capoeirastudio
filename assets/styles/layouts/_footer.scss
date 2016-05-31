@@ -6,8 +6,8 @@
 	position: relative;
 	display: table;
 	width: 100%;
-	margin: 2em auto;
-	padding: 2em 0;
+	margin: 0 auto;
+	padding: 4em 0;
 	text-transform: uppercase;
 	color: $color-light;
         font-family: Open Sans, Helvetica Neue, Arial, sans-serif;
@@ -55,6 +55,10 @@
 	a {
 		text-decoration: none;
 		font-weight: 100;
+		color: $color-light;
+	}
+	a:hover { 
+		color: $color-orange;
 	}
  	ul.keyframe-slider {
                 li {
