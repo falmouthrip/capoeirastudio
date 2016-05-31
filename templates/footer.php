@@ -8,15 +8,6 @@
         </ul>
         <div class="v-center">
 		<div class="row">
-                        <div class="col-xs-12 text-center">
-                                <h5 class="section-heading">As featured in...</h5>
-                                <hr class="primary">
-                                <a href="http://home.ebs.co.kr/ebsnews/menu3/newsGlobalView/10344369/H" target="_new">
-                                <img src="https://s3-ap-northeast-1.amazonaws.com/www-capoeirastudio-com/simple-ebs-logo-45x33px-embossed.png" class="wow bounceIn text-primary" data-wow-delay=".1s" style="visibility: visible; animation-name: bounceIn; -webkit-animation-name: bounceIn;">
-                                </a>
-                        </div>
-                </div>
-		<div class="row">
 	                <div class="col-md-3">
 	                        <h2 class="wow bounceIn" data-wow-delay=".1s">LINKS</h2>
 	                        <p><a href="#about">About</a></p>
@@ -51,6 +42,15 @@
 				<p>사업자 등록 번호 : 101-11-14837</p>
 				<p>대표자: Munair Simpson</p>
 	                </div>
+                </div>
+		<div class="row">
+                        <div class="col-xs-12 text-center">
+                                <h5 class="section-heading">As featured in...</h5>
+                                <hr class="primary">
+                                <a href="http://home.ebs.co.kr/ebsnews/menu3/newsGlobalView/10344369/H" target="_new">
+                                <img src="https://s3-ap-northeast-1.amazonaws.com/www-capoeirastudio-com/simple-ebs-logo-45x33px-embossed.png" class="wow bounceIn text-primary" data-wow-delay=".1s" style="visibility: visible; animation-name: bounceIn; -webkit-animation-name: bounceIn;">
+                                </a>
+                        </div>
                 </div>
         </div>
 </footer>
