@@ -61,6 +61,7 @@
 	a:hover { 
 		color: $color-orange;
 	}
+	ul { list-style-type: none; }
  	ul.keyframe-slider {
                 li {
                         @include bg-abs;
