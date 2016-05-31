@@ -1,7 +1,7 @@
 <!-- Footer -->
 <footer class="footer">
         <!-- slider animation -->
-        <ul class="keyframe-slider">
+        <ul class="keyframe-footer-fader">
                 <li></li>
                 <li></li>
                 <li></li>

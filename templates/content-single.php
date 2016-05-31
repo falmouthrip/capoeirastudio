@@ -2,7 +2,7 @@
 	<article <?php post_class(); ?>>
 		<header class="post-header">
 		        <!-- slider animation -->
-		        <ul class="keyframe-slider">
+		        <ul class="keyframe-post-fader">
 		                <li></li>
 		                <li></li>
 		                <li></li>
