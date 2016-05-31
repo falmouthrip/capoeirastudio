@@ -44,9 +44,4 @@
 			<p>대표자: Munair Simpson</p>
                 </div>
         </div>
-	<div class="container">
-		<div class="row text-center">
-			<p><a href="http://www.facebook.com/capoeirastudio"><img class="wow bounceIn" data-wow-delay=".1s" src="https://s3-ap-northeast-1.amazonaws.com/www-capoeirastudio-com/capoeirastudio-alphalogo-90x150px.png"></img></a></p>
-		</div>
-	</div>
 </footer>
