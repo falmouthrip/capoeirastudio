@@ -14,7 +14,7 @@ use Roots\Sage\Wrapper;
     <![endif]-->
     <?php
       do_action('get_header');
-      get_template_part('templates/header');
+      get_template_part('templates/header-single');
     ?>
     <div class="wrap container-fluid" role="document">
       <div class="content row">
