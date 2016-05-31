@@ -28,7 +28,7 @@
 	                </div>
 	                <div class="col-md-3">
 	                        <h2 class="wow bounceIn" data-wow-delay=".1s">COMING SOON</h2>
-	                        <p><a href="">Cantingas</a></p>
+	                        <p><a href="">Cantigas</a></p>
 	                        <p><a href="">Ladainhas</a></p>
 	                        <p><a href="">Corridos</a></p>
 	                        <p><a href="">Quadras</a></p>
