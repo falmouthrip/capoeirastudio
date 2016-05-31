@@ -49,23 +49,23 @@
                         @include bg-abs;
                         opacity: 0;
                         @include animation(fade-out 9s infinite both);
-                        background-image: url(https://s3.ap-northeast-2.amazonaws.com/handshaker-theme/whiteheads-800x1200px.jpeg);
+                        background-image: url(https://s3-ap-northeast-1.amazonaws.com/www-capoeirastudio-com/teachers-header.jpg);
                         @media (min-width: $mq-med) {
-                                background-image: url(https://s3.ap-northeast-2.amazonaws.com/handshaker-theme/whiteheads-2000x1350px.jpeg);
+                                background-image: url(https://s3-ap-northeast-1.amazonaws.com/www-capoeirastudio-com/mestresuassuna-black1.jpg);
                         }
                 }
                 li:nth-child(2) {
-                        background-image: url(https://s3.ap-northeast-2.amazonaws.com/handshaker-theme/trapped-800x1200px.jpeg);
+                        background-image: url(https://s3-ap-northeast-1.amazonaws.com/www-capoeirastudio-com/mestre-calango-atabaque-800x1200px.jpeg);
                         @include animation-delay(6s);
                         @media (min-width: $mq-med) {
-                                background-image: url(https://s3.ap-northeast-2.amazonaws.com/handshaker-theme/mossheads-2000x1350px.jpeg);
+                                background-image: url(https://s3-ap-northeast-1.amazonaws.com/www-capoeirastudio-com/omizumba-header.jpg);
                         }
                 }
                 li:nth-child(3) {
-                        background-image: url(https://s3.ap-northeast-2.amazonaws.com/handshaker-theme/whitesquare-800x1200px.jpeg);
+                        background-image: url(https://s3-ap-northeast-1.amazonaws.com/www-capoeirastudio-com/calango-berinjela-berimbau.jpg);
                         @include animation-delay(3s);
                         @media (min-width: $mq-med) {
-                                background-image: url(https://s3.ap-northeast-2.amazonaws.com/handshaker-theme/crystalcubes-2000x1350px.jpeg);
+                                background-image: url(https://s3-ap-northeast-1.amazonaws.com/www-capoeirastudio-com/calango-desafio2016-2000x1300px.jpeg);
                         }
                 }
         }
