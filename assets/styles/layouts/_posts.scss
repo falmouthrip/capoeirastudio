@@ -15,9 +15,8 @@
                 position: relative;
                 z-index: 4;
                 padding: 0 5%;
-                h1 {
-                        @include animation(fade-in ease-in-out 2s 0.5s both);
-                }
+                h1 { @include animation(fade-in ease-in-out 2s 0.5s both); }
+                h2 { @include animation(fade-in ease-in-out 2.4s 0.1s both); }
         }
 	h1 {
 		font-family: Open Sans, Helvetica Neue, Arial, sans-serif;
@@ -65,4 +64,8 @@
                         }
                 }
         }
+}
+
+.entry-content {
+	margin: 2em auto;
 }
