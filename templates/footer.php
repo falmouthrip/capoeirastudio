@@ -16,14 +16,6 @@
                         <p><a href="#contact">Contact</a></p>
                 </div>
                 <div class="col-md-3">
-                        <h2 class="wow bounceIn" data-wow-delay=".1s">CAPOEIRA SONGS</h2>
-                        <p><a href="">Cantingas</a></p>
-                        <p><a href="">Ladainhas</a></p>
-                        <p><a href="">Corridos</a></p>
-                        <p><a href="">Quadras</a></p>
-                        <p><a href="">Maculele</a></p>
-                </div>
-                <div class="col-md-3">
                         <h2 class="wow bounceIn" data-wow-delay=".1s">RECENT POSTS</h2>
 			<?php
 				$args = array( 'numberposts' => '5' );
@@ -32,6 +24,14 @@
 					echo '<p><a href="' . get_permalink($recent["ID"]) . '">' .   $recent["post_title"].'</a> </p> ';
 				}
 			?>
+                </div>
+                <div class="col-md-3">
+                <div class="col-md-3">
+                        <h2 class="wow bounceIn" data-wow-delay=".1s">ADMINISTRATION</h2>
+			<?php wp_login_form(); ?>
+                        <h2 class="wow bounceIn" data-wow-delay=".1s">LINKS</h2>
+                        <p><a href="">Cantingas</a></p>
+                        <p><a href="">Ladainhas</a></p>
                 </div>
                 <div class="col-md-3">
                         <h2 class="wow bounceIn" data-wow-delay=".1s">OUR ADDRESS</h2>
