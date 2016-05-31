@@ -1,5 +1,8 @@
 /*----------------------------------------------
 --Buttons
 -----------------------------------------------  */
-$btn-primary-color: $color-orange;
+.btn-primary {
+	background-color: $color-orange;
+	border-color: $color-orange-alpha;
+}
 
