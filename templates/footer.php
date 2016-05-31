@@ -1,5 +1,5 @@
 <!-- Footer -->
-<footer>
+<footer class="footer">
         <!-- slider animation -->
         <ul class="keyframe-slider">
                 <li></li>
