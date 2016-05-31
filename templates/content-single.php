@@ -1,34 +1,34 @@
 <?php while (have_posts()) : the_post(); ?>
-  <article <?php post_class(); ?>>
-<header class="post-header">
-        <!-- slider animation -->
-        <ul class="keyframe-slider">
-                <li></li>
-                <li></li>
-                <li></li>
-        </ul>
-        <div class="v-center">
-                <a onmousedown="tick()" onmouseover="pop()" href="<?= esc_url(home_url('/')); ?>">
-                        <img class="scroll-down" src="https://s3-ap-northeast-1.amazonaws.com/www-capoeirastudio-com/capoeirastudio-whitealpha-icon-600x600px.png" />
-                </a>
-                <h1><?php bloginfo('name'); ?></h1>
-      		<h2 class="entry-title"><?php the_title(); ?></h2>
-      		<?php get_template_part('templates/entry-meta'); ?>
-                <nav class="nav-primary">
-                        <?php
-                                if (has_nav_menu('primary_navigation')) :
-                                        wp_nav_menu(['theme_location' => 'primary_navigation', 'menu_class' => 'nav']);
-                                endif;
-                        ?>
-                </nav>
-        </div>
-</header>
-    <div class="entry-content">
-      <?php the_content(); ?>
-    </div>
-    <footer>
-      <?php wp_link_pages(['before' => '<nav class="page-nav"><p>' . __('Pages:', 'sage'), 'after' => '</p></nav>']); ?>
-    </footer>
-    <?php comments_template('/templates/comments.php'); ?>
-  </article>
+	<article <?php post_class(); ?>>
+		<header class="post-header">
+		        <!-- slider animation -->
+		        <ul class="keyframe-slider">
+		                <li></li>
+		                <li></li>
+		                <li></li>
+		        </ul>
+		        <div class="v-center">
+		                <a onmousedown="tick()" onmouseover="pop()" href="<?= esc_url(home_url('/')); ?>">
+		                        <img class="scroll-down" src="https://s3-ap-northeast-1.amazonaws.com/www-capoeirastudio-com/capoeirastudio-whitealpha-icon-600x600px.png" />
+		                </a>
+		                <h1><?php bloginfo('name'); ?></h1>
+		      		<h2 class="entry-title"><?php the_title(); ?></h2>
+		      		<?php get_template_part('templates/entry-meta'); ?>
+		                <nav class="nav-primary">
+		                        <?php
+		                                if (has_nav_menu('primary_navigation')) :
+		                                        wp_nav_menu(['theme_location' => 'primary_navigation', 'menu_class' => 'nav']);
+		                                endif;
+		                        ?>
+		                </nav>
+		        </div>
+		</header>
+		<div class="entry-content">
+			<?php the_content(); ?>
+		</div>
+		<footer>
+			<?php wp_link_pages(['before' => '<nav class="page-nav"><p>' . __('Pages:', 'sage'), 'after' => '</p></nav>']); ?>
+		</footer>
+	    	<?php comments_template('/templates/comments.php'); ?>
+	</article>
 <?php endwhile; ?>
