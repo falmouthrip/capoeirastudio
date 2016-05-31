@@ -2,11 +2,10 @@
 --Post Styling
 -----------------------------------------------  */
 
-.post-header {
+.header {
         position: relative;
         display: table;
         width: 100%;
-        height: 100%;
         margin: 0 auto;
         @include overlay($color-dark, 0.8);
         .v-center {
@@ -39,6 +38,9 @@
         img:hover {
                 transform: rotate(-90deg);
         }
+	.header-content {
+		padding: 2em 0;
+	}
         ul.keyframe-slider {
                 li {
                         @include bg-abs;
