@@ -38,6 +38,11 @@
         "scripts/customizer.js"
       ]
     },
+    "vegas.js": {
+      "files": [
+        "scripts/vegas.js"
+      ]
+    },
     "jquery.js": {
       "bower": ["jquery"]
     }
