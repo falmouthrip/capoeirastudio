@@ -25,15 +25,13 @@
                 </div>
                 <div class="col-md-3">
                         <h2 class="wow bounceIn" data-wow-delay=".1s">RECENT POSTS</h2>
-			<ul>
-				<?php
-					$args = array( 'numberposts' => '5' );
-					$recent_posts = wp_get_recent_posts( $args );
-					foreach( $recent_posts as $recent ){
-						echo '<li><a href="' . get_permalink($recent["ID"]) . '">' .   $recent["post_title"].'</a> </li> ';
-					}
-				?>
-			</ul>
+			<?php
+				$args = array( 'numberposts' => '5' );
+				$recent_posts = wp_get_recent_posts( $args );
+				foreach( $recent_posts as $recent ){
+					echo '<p><a href="' . get_permalink($recent["ID"]) . '">' .   $recent["post_title"].'</a> </p> ';
+				}
+			?>
                 </div>
                 <div class="col-md-3">
                         <h2 class="wow bounceIn" data-wow-delay=".1s">OUR ADDRESS</h2>
