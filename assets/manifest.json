@@ -13,16 +13,6 @@
       ],
       "main": true
     },
-    "animate.css": {
-      "files": [
-        "styles/animate.css"
-      ]
-    },
-    "vegas.css": {
-      "files": [
-        "styles/vegas.css"
-      ]
-    },
     "creative.css": {
       "files": [
         "styles/creative.css"
