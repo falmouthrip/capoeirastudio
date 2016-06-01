@@ -28,8 +28,8 @@
 	                </div>
 	                <div class="col-md-3">
 	                        <h2 class="wow bounceIn" data-wow-delay=".1s">META</h2>
-	                        <p><a href=""><?php wp_register(); ?></a></p>
-	                        <h2 class="wow bounceIn" data-wow-delay=".1s">SEARCH</h2>
+	                        <p><?php wp_register(); ?></p>
+	                        <p><?php wp_logout(); ?></p>
 	                        <p><a href=""><?php get_search_form(); ?></a></p>
 	                </div>
 	                <div class="col-md-3">
