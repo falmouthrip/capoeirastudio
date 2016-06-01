@@ -44,7 +44,7 @@
 	                </div>
                 </div>
 		<div class="row">
-                        <div class="col-xs-12 text-center">
+                        <div class="col-md-4 col-md-offset-4 text-center">
                                 <img src="https://s3-ap-northeast-1.amazonaws.com/www-capoeirastudio-com/capoeirastudio-white-icon-644x644px.png" class="wow bounceIn text-primary" data-wow-delay=".1s" style="visibility: visible; animation-name: bounceIn; -webkit-animation-name: bounceIn;">
                                 <h5 class="section-heading">As featured on...</h5>
                                 <hr class="primary">
