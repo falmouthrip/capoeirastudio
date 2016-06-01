@@ -32,6 +32,8 @@
 	                        <p><a href="/logout">Log Out</a></p>
 	                        <h2 class="wow bounceIn" data-wow-delay=".1s">SEARCH</h2>
 	                        <p><?php get_search_form(); ?></p>
+	                        <h2 class="wow bounceIn" data-wow-delay=".1s">NEWSLETTER</h2>
+	                        <p><?php get_search_form(); ?></p>
 	                </div>
 	                <div class="col-md-3">
 	                        <h2 class="wow bounceIn" data-wow-delay=".1s">REGISTRATION</h2>
