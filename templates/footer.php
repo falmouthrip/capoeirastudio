@@ -30,10 +30,8 @@
 	                        <h2 class="wow bounceIn" data-wow-delay=".1s">META</h2>
 	                        <p><a href="/wp-admin">Site Admin</a></p>
 	                        <p><a href="/logout">Log Out</a></p>
-	                        <h2 class="wow bounceIn" data-wow-delay=".1s">SEARCH</h2>
-	                        <p><?php get_search_form(); ?></p>
 	                        <h2 class="wow bounceIn" data-wow-delay=".1s">NEWSLETTER</h2>
-	                        <p><?php get_search_form(); ?></p>
+	                        <p><script type="text/javascript" src="//s3.amazonaws.com/downloads.mailchimp.com/js/signup-forms/popup/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script><script type="text/javascript">require(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us13.list-manage.com","uuid":"3db435ce999565383d510d2cd","lid":"64f83024b3"}) })</script></p>
 	                </div>
 	                <div class="col-md-3">
 	                        <h2 class="wow bounceIn" data-wow-delay=".1s">REGISTRATION</h2>
