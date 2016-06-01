@@ -30,6 +30,7 @@
 	                        <h2 class="wow bounceIn" data-wow-delay=".1s">META</h2>
 	                        <p><a href="/wp-admin">Site Admin</a></p>
 	                        <p><a href="/logout">Log Out</a></p>
+	                        <h2 class="wow bounceIn" data-wow-delay=".1s">SEARCH</h2>
 	                        <p><?php get_search_form(); ?></p>
 	                </div>
 	                <div class="col-md-3">
