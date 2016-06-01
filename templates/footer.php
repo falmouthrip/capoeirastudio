@@ -9,7 +9,7 @@
         <div class="v-center">
 		<div class="row">
 	                <div class="col-md-3">
-	                        <h2 class="wow bounceIn" data-wow-delay=".1s">LINKS</h2>
+	                        <h2 class="wow bounceIn" data-wow-delay=".1s">MENU</h2>
 	                        <p><a href="<?php echo get_site_url(); ?>#about">About</a></p>
 	                        <p><a href="<?php echo get_site_url(); ?>#classes">Classes</a></p>
 	                        <p><a href="<?php echo get_site_url(); ?>#teachers">Teachers</a></p>

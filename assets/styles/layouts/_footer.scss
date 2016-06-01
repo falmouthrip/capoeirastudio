@@ -35,6 +35,9 @@
 		}
 		.row {
 			padding: 1em 0;
+			.col-md-3 {
+				padding: 1em 0;
+			}
 		}
 	}
 	p {
@@ -61,7 +64,6 @@
 	a:hover { 
 		color: $color-orange;
 	}
-	ul { list-style-type: none; }
  	ul.keyframe-footer-fader {
                 li {
                         @include bg-abs;
