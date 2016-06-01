@@ -28,9 +28,9 @@
 	                </div>
 	                <div class="col-md-3">
 	                        <h2 class="wow bounceIn" data-wow-delay=".1s">META</h2>
-	                        <p><?php wp_register(); ?></p>
-	                        <p><?php wp_logout(); ?></p>
-	                        <p><a href=""><?php get_search_form(); ?></a></p>
+	                        <p><a href="/wp-admin">Site Admin</a></p>
+	                        <p><a href="/logout">Log Out</a></p>
+	                        <p><?php get_search_form(); ?></p>
 	                </div>
 	                <div class="col-md-3">
 	                        <h2 class="wow bounceIn" data-wow-delay=".1s">REGISTRATION</h2>
