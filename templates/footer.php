@@ -31,7 +31,8 @@
 	                        <p><a href="/wp-admin">Site Admin</a></p>
 	                        <p><a href="/logout">Log Out</a></p>
 	                        <h2 class="wow bounceIn" data-wow-delay=".1s">NEWSLETTER</h2>
-	                        <p><a href="http://eepurl.com/b3Y1Hz">Sign Up</a></p>
+	                        <p><a href="http://eepurl.com/b3Y1Hz">Subscribe</a></p>
+	                        <p><a href="http://capoeirastudio.us13.list-manage.com/unsubscribe?u=3db435ce999565383d510d2cd&id=64f83024b3">Unsubscribe</a></p>
 	                </div>
 	                <div class="col-md-3">
 	                        <h2 class="wow bounceIn" data-wow-delay=".1s">REGISTRATION</h2>
