@@ -1,3 +1,14 @@
+/*!
+ * Start Bootstrap - Creative Bootstrap Theme (http://startbootstrap.com)
+ * Code licensed under the Apache License v2.0.
+ * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ */
+
+(function($) {
+    "use strict"; // Start of use strict
+
+    // jQuery for the slideshow in the header section.
+
 $("#header").vegas({
       timer: false,
       delay: 17000,
@@ -13,3 +24,5 @@ $("#header").vegas({
       transitionDuration: 9000,
 });
 
+
+})(jQuery); // End of use strict
