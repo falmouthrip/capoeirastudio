@@ -9,7 +9,7 @@
 
     // jQuery for the slideshow in the header section.
 
-$("#header").vegas({
+$(".header").vegas({
       timer: false,
       delay: 17000,
       preload: true,
