@@ -1,4 +1,4 @@
-<section class="bg-primary" id="intro">
+<section class="bg-primary" id="introduction">
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-8 col-lg-offset-2 text-center">

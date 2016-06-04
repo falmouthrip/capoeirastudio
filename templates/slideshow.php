@@ -1,4 +1,4 @@
-<section id="slideshow">
+<section id="slideshow" class="slideshow">
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-12 text-center center-vertically">
