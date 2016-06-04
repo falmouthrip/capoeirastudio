@@ -7,7 +7,7 @@
 				<span class="icon-bar"></span>
 				<span class="icon-bar"></span>
                 	</button>
-                	<a class="navbar-brand page-scroll" href="#page-top"><span style="color: red;">RIP</span> Falmouth</a>
+                	<a class="navbar-brand page-scroll" href="#page-top"><span style="color: red;">RIP</span><span style="font-size: 150%; color: white;">/</span> Falmouth</a>
             	</div>
 
             	<!-- Collect the nav links, forms, and other content for toggling -->
