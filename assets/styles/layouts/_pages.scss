@@ -12,8 +12,11 @@
 .about {
 	height: 100%;
 }
+
 .slideshow, .donate {
-	height: 100%;
+	.slides {
+		height: 50vh;
+	}
 	.containter {
 		position: relative;
 		display: table;

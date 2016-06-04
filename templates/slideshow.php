@@ -5,6 +5,7 @@
 				<h2 class="section-heading">Slideshow</h2>
 				<hr class="primary">
 				<p class="text-muted">These slides are the latest photos from the Falmouth, Cemetery. With your support, we are going to make this the most fantastic cemetery in Jamaica.</p>
+				<div class="slides"></div>
 				<hr class="primary">
 				<h2 class="section-heading">Volunteer</h2>
 				<p class="text-muted">Get active and take photos of the cemetery.</p>

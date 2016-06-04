@@ -11,7 +11,7 @@ $(".header").vegas({
       timer: false,
       delay: 17000,
       preload: true,
-      overlay: 'https://s3-ap-northeast-1.amazonaws.com/www-capoeirastudio-com/07.png',
+      overlay: 'dist/images/overlays/04.png',
       slides: [
         { src: "https://s3.amazonaws.com/www-falmouth-rip/log-bush.jpg", valign: "25%", transition: "zoomOut" },
         { src: "https://s3.amazonaws.com/www-falmouth-rip/ponsettia-rust.jpg", valign: "75%", transition: "swirlRight" },
@@ -27,11 +27,11 @@ $(".header").vegas({
 });
 
 
-$(".slideshow").vegas({
+$(".slides").vegas({
       timer: false,
       delay: 7000,
       preload: true,
-      overlay: 'https://s3-ap-northeast-1.amazonaws.com/www-capoeirastudio-com/07.png',
+      overlay: 'dist/images/overlays/02.png',
       slides: [
         { src: "https://s3.amazonaws.com/www-falmouth-rip/log-bush.jpg", valign: "25%", transition: "zoomOut" },
         { src: "https://s3.amazonaws.com/www-falmouth-rip/ponsettia-rust.jpg", valign: "75%", transition: "swirlRight" },
