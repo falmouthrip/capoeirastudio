@@ -21,7 +21,7 @@
 		<div class="row">
 			<div class="col-lg-8 col-lg-offset-2 text-center">
 				<hr class="primary">
-				<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d6325.436276912393!2d126.978851!3d37.561704!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357ca2f3864681b9%3A0xf3bd15bab5778767!2s93-3+Bukchang-dong%2C+Jung-gu%2C+Seoul%2C+South+Korea!5e0!3m2!1sen!2s!4v1439365275417" width="100%" height="150" frameborder="0" style="border:0" allowfullscreen></iframe>
+				<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15135.457043884528!2d-77.6706958763919!3d18.489806698829!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8eda33f8c3cfab6b%3A0x947175f8cf7d2536!2sFalmouth%2C+Jamaica!5e0!3m2!1sen!2s!4v1465029888587" width="80%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 			</div>
 		</div>
 	</div>
