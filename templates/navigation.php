@@ -7,18 +7,17 @@
 				<span class="icon-bar"></span>
 				<span class="icon-bar"></span>
                 	</button>
-                	<a class="navbar-brand page-scroll" href="#page-top">Capoeira Studio</a>
+                	<a class="navbar-brand page-scroll" href="#page-top"><span style="color: red;">RIP</span> Falmouth</a>
             	</div>
 
             	<!-- Collect the nav links, forms, and other content for toggling -->
             	<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 	<ul class="nav navbar-nav navbar-right">
-                    		<li> <a class="page-scroll" href="#about">소개 About</a> </li>
-                    		<li> <a class="page-scroll" href="#classes">수업 Classes</a> </li>
-                    		<li> <a class="page-scroll" href="#teachers">강사 Teachers</a> </li>
-                    		<li> <a class="page-scroll" href="#pricing">회비 Pricing</a> </li>
-                    		<li> <a class="page-scroll" href="#contact">문의 Contact</a> </li>
-                    		<li> <a class="page-scroll" href="/madeira-boa/">블로그 Blog</a> </li>
+                    		<li> <a class="page-scroll" href="#about">About</a> </li>
+                    		<li> <a class="page-scroll" href="#slideshow">Slideshow</a> </li>
+                    		<li> <a class="page-scroll" href="#raffle-info">Raffle Info</a> </li>
+                    		<li> <a class="page-scroll" href="#donate">Donate</a> </li>
+                    		<li> <a class="page-scroll" href="#contact">Contact</a> </li>
                 	</ul>
             	</div>
             	<!-- /.navbar-collapse -->

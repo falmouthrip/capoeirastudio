@@ -1,20 +1,20 @@
 <header class="header">
 	<div class="header-content">
 		<div class="header-content-inner">
-			<h1>Creative Movement.<br> Serious Fitness.</h1>
+			<h1>Rest In Peace<br> Falmouth, Jamaica.</h1>
 			<hr>
-			<p>dance, play, sing and above all move creatively</p>
+			<p>Committed to making the Falmouth Cemetery an ever beautiful resting place!</p>
 			<a href="#intro" class="btn btn-primary btn-xl page-scroll wow bounceIn" data-wow-delay=".1s">더 보기 <br>Find Out More</a>
 			<hr>
 			<h3 class="white-icons">
 				<div class="col-xs-4">
-					<a href="https://capoeirastudio.typeform.com/to/veVkqb"><i class="fa fa-child"></i></a> KIDS CLASS
+					<a href="#contact"><i class="fa fa-envelop"></i></a> CONTACT US
 				</div>
 				<div class="col-xs-4">
-					<a href="mailto:learnprivately@capoeirastudio.com"><i class="fa fa-male"></i></a> LEARN PRIVATELY
+					<a href="/raffle-ticket/"><i class="fa fa-question-circle-o"></i></a> RAFFLE INFO
 				</div>
 				<div class="col-xs-4">
-					<a href="mailto:freetrial@capoeirastudio.com"><i class="fa fa-check-circle-o"></i></a> FREE TRIAL
+					<a href="#donate"><i class="fa fa-money"></i></a> DONATE NOW
 				</div>
 			</h3>
 		</div>

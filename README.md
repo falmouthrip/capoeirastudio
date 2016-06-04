@@ -1,14 +1,14 @@
-# [capoeirastudio](https://roots.io/sage/)
+# [falmouthrip](https://roots.io/sage/)
 
-capoeirastudio is a WordPress theme based on HTML5 Boilerplate, gulp, Bower, and Bootstrap Sass, from the Sage Wordpress starter theme.
+falmouthrip is a WordPress theme based on HTML5 Boilerplate, gulp, Bower, and Bootstrap Sass, from the Sage Wordpress starter theme.
 
-* Source: [https://github.com/capoeirastudio/capoeirastudio](https://github.com/capoeirastudio/capoeirastudio)
-* Homepage: [http://www.capoeirastudio.com](http://www.capoeirastudio.com)
-* Documentation: [http://www.capoeirastudio.com/documentation](http://www.capoeirastudio.com/documentation)
+* Source: [https://github.com/falmouthrip/falmouthrip](https://github.com/falmouthrip/falmouthrip)
+* Homepage: [http://www.falmouth.rip](http://www.falmouth.rip)
+* Documentation: [http://www.falmouthrip.com/documentation](http://www.falmouthrip.com/documentation)
 
 ## Theme setup
 
-Edit `lib/setup.php` to enable or disable theme features, setup navigation menus, post thumbnail sizes, post formats, and sidebars.
+Fork the [repository](https://github.com/falmouthrip/falmouthrip) from github. Clone it on your development machine. Edit `lib/setup.php` to enable or disable theme features, setup navigation menus, post thumbnail sizes, post formats, and sidebars. Enjoy!
 
 ## Theme development
 
@@ -52,3 +52,7 @@ If your local development URL looks like `http://localhost:8888/project-name/` y
   }
 ...
 ```
+## Theme development support
+
+Need help to get the theme up and running? Contact [Quilombola Engineering](http://quilombolaengineering.com/). [Munair Simpson](http://www.munair.com) (the proprietor of the Quilombola private enterprise) is willing to work for free for certain special causes. If you don't run a non-profit you will need to hire him via Upwork. Here is his [profile](https://www.upwork.com/freelancers/~01fd779c5275079abb).
+

@@ -1,0 +1,17 @@
+/*----------------------------------------------
+--Page Styling
+-----------------------------------------------  */
+
+
+.slideshow, .donate {
+	height: 100%;
+	.containter {
+		position: relative;
+		display: table;
+		.center-vertically {
+			position: relative;
+			display: table-cell;
+			vertical-align: middle;
+		}
+	}
+}
