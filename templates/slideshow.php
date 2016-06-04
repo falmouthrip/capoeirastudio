@@ -1,5 +1,5 @@
 <section id="slideshow" class="slideshow">
-	<div class="container">
+	<div class="container-fluid">
 		<div class="row">
 			<div class="col-lg-12 text-center center-vertically">
 				<h2 class="section-heading">Slideshow</h2>
