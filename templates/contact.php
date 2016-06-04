@@ -1,4 +1,4 @@
-<section id="contact" class="bg-dark">
+<section id="contact" class="contact bg-dark">
 	<div class="container-fluid">
 		<div class="row">
 			<div class="col-lg-8 col-lg-offset-2 text-center">
