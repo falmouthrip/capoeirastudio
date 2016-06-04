@@ -2,10 +2,12 @@
 --Page Styling
 -----------------------------------------------  */
 
-.didot-font {
-	font-family: "GFS Didot";
+.introduction {
+	height: 100%;
+	.didot-font {
+		font-family: "GFS Didot";
+	}
 }
-
 .slideshow, .donate {
 	height: 100%;
 	.containter {
