@@ -31,12 +31,12 @@
 	                        <p><a href="/wp-admin">Site Admin</a></p>
 	                        <p><a href="/logout">Log Out</a></p>
 	                        <h2 class="wow bounceIn" data-wow-delay=".1s">NEWSLETTER</h2>
-	                        <p><a href="http://eepurl.com/b3Y1Hz">Subscribe</a></p>
-	                        <p><a href="http://capoeirastudio.us13.list-manage.com/unsubscribe?u=3db435ce999565383d510d2cd&id=64f83024b3">Unsubscribe</a></p>
+	                        <p><a href="http://eepurl.com/b4vXWP">Subscribe</a></p>
+	                        <p><a href="http://rip.us13.list-manage.com/unsubscribe?u=9a9b12374a80e9e50d664adee&id=87d5751b0a">Unsubscribe</a></p>
 	                </div>
 	                <div class="col-md-3">
 	                        <h2 class="wow bounceIn" data-wow-delay=".1s">FALMOUTH RIP</h2>
-				<p>The purpose of this website is to connect with others that have a vision of making the Falmouth Cemetery Jamaica's most beautiful resting place. This website is a work-in-progress.</p>
+				<p>The purpose of this website is to connect with others that have a vision of making the Falmouth Cemetery Jamaica's most beautiful resting place. This website is a work-in-progress, but don't let that stop you from joining the movement.</p>
 				<p>This website was designed and is maintained by <a href="http://www.quilombola.com/"><span style="font-weight: 900">Quilombola Engineering</span></a>. Need a website built? Email <a href="mailto:info@quilombola.com">us</a>.</p>
 	                </div>
                 </div>
