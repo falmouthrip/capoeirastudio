@@ -71,9 +71,9 @@
                         background-attachment: fixed;
                         opacity: 0;
                         @include animation(fade-out 27s infinite both);
-                        background-image: url(https://s3-ap-northeast-1.amazonaws.com/www-capoeirastudio-com/xango-zumbi-roda-800x1200px.jpeg);
+                        background-image: url(https://s3.amazonaws.com/www-falmouth-rip/usain-bolt-800x1200px.png);
                         @media (min-width: $mq-med) {
-                                background-image: url(https://s3-ap-northeast-1.amazonaws.com/www-capoeirastudio-com/calango-chama-formiguinha-2000x1350px.jpeg);
+                                background-image: url(https://s3.amazonaws.com/www-falmouth-rip/usain-bolt-1920x1080px.jpg);
                         }
                 }
                 li:nth-child(2) {
