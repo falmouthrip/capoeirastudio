@@ -4,7 +4,7 @@
 			<h1>Rest In Peace<br> Falmouth, Jamaica.</h1>
 			<hr>
 			<p>Committed to making the Falmouth Cemetery an ever beautiful resting place!</p>
-			<a href="#intro" class="btn btn-primary btn-xl page-scroll wow bounceIn" data-wow-delay=".1s">Find Out More</a>
+			<a href="#introduction" class="btn btn-primary btn-xl page-scroll wow bounceIn" data-wow-delay=".1s">Find Out More</a>
 			<hr>
 			<h3 class="white-icons">
 				<div class="col-xs-4">
