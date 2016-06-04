@@ -71,23 +71,23 @@
                         background-attachment: fixed;
                         opacity: 0;
                         @include animation(fade-out 27s infinite both);
-                        background-image: url(https://s3.amazonaws.com/www-falmouth-rip/usain-bolt-800x1200px.png);
+                        background-image: url(https://s3.amazonaws.com/www-falmouth-rip/log-bush.jpg);
                         @media (min-width: $mq-med) {
-                                background-image: url(https://s3.amazonaws.com/www-falmouth-rip/usain-bolt-1920x1080px.jpg);
+                                background-image: url(https://s3.amazonaws.com/www-falmouth-rip/ponsettia-rust.jpg);
                         }
                 }
                 li:nth-child(2) {
-                        background-image: url(https://s3.amazonaws.com/www-falmouth-rip/rex-nettleford-800x1200px.png);
+                        background-image: url(https://s3.amazonaws.com/www-falmouth-rip/zinced.jpg);
                         @include animation-delay(18s);
                         @media (min-width: $mq-med) {
-                                background-image: url(https://s3.amazonaws.com/www-falmouth-rip/rex-nettleford-1600x1200px.png);
+                                background-image: url(https://s3.amazonaws.com/www-falmouth-rip/well-rusty.jpg);
                         }
                 }
                 li:nth-child(3) {
-                        background-image: url(https://s3.amazonaws.com/www-falmouth-rip/ben-johnson-1200x2000px.png);
+                        background-image: url(https://s3.amazonaws.com/www-falmouth-rip/walk-rusty.jpg);
                         @include animation-delay(9s);
                         @media (min-width: $mq-med) {
-                                background-image: url(https://s3.amazonaws.com/www-falmouth-rip/ben-johnson-2000x1300px.png);
+                                background-image: url(https://s3.amazonaws.com/www-falmouth-rip/road-rusty.jpg);
                         }
                 }
 	}
