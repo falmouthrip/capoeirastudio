@@ -15,7 +15,7 @@
 				<p><a href="http://www.twitter.com/falmouthrip"><i class="fa fa-twitter fa-3x wow bounceIn" data-wow-delay=".1s"></i></a></p>
 			</div>
 			<div class="col-lg-2 text-center">
-				<p><a href="mailto:info@capoeirastudio.com"><i class="fa fa-envelope-o fa-3x wow bounceIn" data-wow-delay=".1s"></i></a></p>
+				<p><a href="mailto:rip@quilombolaengineering.com"><i class="fa fa-envelope-o fa-3x wow bounceIn" data-wow-delay=".1s"></i></a></p>
 			</div>
 		</div>
 		<div class="row">
