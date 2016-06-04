@@ -4,6 +4,7 @@
 
 .header-content {
 	padding: 2em 0;
+	@include overlay($color-dark, 0.8);
 }
 
 a {

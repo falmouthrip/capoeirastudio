@@ -31,7 +31,7 @@ $(".slides").vegas({
       timer: false,
       delay: 7000,
       preload: true,
-      overlay: '/wp-content/themes/falmouthrip/dist/images/overlays/02.png',
+      overlay: '/wp-content/themes/falmouthrip/dist/images/overlays/04.png',
       slides: [
         { src: "https://s3.amazonaws.com/www-falmouth-rip/log-bush.jpg", valign: "25%", transition: "zoomOut" },
         { src: "https://s3.amazonaws.com/www-falmouth-rip/ponsettia-rust.jpg", valign: "75%", transition: "swirlRight" },
