@@ -11,7 +11,6 @@
 		                <a onmousedown="tick()" onmouseover="pop()" href="<?= esc_url(home_url('/')); ?>">
 		                        <img class="scroll-down" src="https://s3.amazonaws.com/www-falmouth-rip/rip-icon-inverted-1600x1600px.png" />
 		                </a>
-		                <h1>falmouth, jamaica</h1>
 		      		<h3 class="wow zoomIn" data-wow-delay="2s">Blog Entry</h3>
 		      		<h2 class="entry-title"><?php the_title(); ?></h2>
 				<?php get_template_part('templates/entry-meta'); ?>
