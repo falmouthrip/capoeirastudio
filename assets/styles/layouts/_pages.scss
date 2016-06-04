@@ -21,9 +21,7 @@
 .slideshow, .donate {
 	.slides {
 		height: 50vh;
-		border: 2px solid transparent;
-		border-image: linear-gradient(to bottom, #666666 0%, #111111 100%);
-	    	border-image-slice: 1;
+		border: 2px solid linear-gradient(to bottom, #666666 0%, #111111 100%);
 	}
 	.containter {
 		position: relative;
