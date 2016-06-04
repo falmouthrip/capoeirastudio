@@ -1,4 +1,4 @@
-<section class="bg-dark" id="about">
+<section id="about" class="about bg-dark">
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-12 text-center">
