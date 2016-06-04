@@ -2,7 +2,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-8 col-lg-offset-2 text-center">
-				<h2 class="section-heading">문의사항 <br>Let's Get In Touch!</h2>
+				<h2 class="section-heading">Let's Get In Touch!</h2>
 				<hr class="primary">
 				<p>Need further information? Please contact Falmouth RIP via telephone/Whatsapp, Facebook Messenger, or email.</p>
 			</div>
