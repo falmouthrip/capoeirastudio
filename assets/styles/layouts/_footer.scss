@@ -77,17 +77,17 @@
                         }
                 }
                 li:nth-child(2) {
-                        background-image: url(https://s3-ap-northeast-1.amazonaws.com/www-capoeirastudio-com/mestre-calango-atabaque-800x1200px.jpeg);
+                        background-image: url(https://s3.amazonaws.com/www-falmouth-rip/rex-nettleford-800x1200px.png);
                         @include animation-delay(18s);
                         @media (min-width: $mq-med) {
-                                background-image: url(https://s3-ap-northeast-1.amazonaws.com/www-capoeirastudio-com/calango-desafio2016-2000x1300px.jpeg);
+                                background-image: url(https://s3.amazonaws.com/www-falmouth-rip/rex-nettleford-1600x1200px.png);
                         }
                 }
                 li:nth-child(3) {
-                        background-image: url(https://s3-ap-northeast-1.amazonaws.com/www-capoeirastudio-com/segredo-calango-roda-800x1200px.jpeg);
+                        background-image: url(https://s3.amazonaws.com/www-falmouth-rip/ben-johnson-1200x2000px.png);
                         @include animation-delay(9s);
                         @media (min-width: $mq-med) {
-                                background-image: url(https://s3-ap-northeast-1.amazonaws.com/www-capoeirastudio-com/formiguinha-calango-roda-2000x1300px.jpg);
+                                background-image: url(https://s3.amazonaws.com/www-falmouth-rip/ben-johnson-2000x1300px.png);
                         }
                 }
 	}
