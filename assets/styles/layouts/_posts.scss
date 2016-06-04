@@ -19,7 +19,7 @@
                 h2 { @include animation(fade-in ease-in-out 2.4s 0.1s both); }
         }
 	h1 {
-		font-family: Open Sans, Helvetica Neue, Arial, sans-serif;
+		font-family: 'GFS Didot', Helvetica Neue, Arial, sans-serif;
 		font-weight: 700;
 		font-size: 65px;
 		text-transform: uppercase;
@@ -38,35 +38,34 @@
         img {
                 transition: all ease-out 4s;
                 width: 78px;
-                border: 1px solid white;
-                border-radius: 40px;
         }
         img:hover {
-                transform: rotate(-90deg);
+                transform: scale(1.2);
         }
 	ul { list-style-type: none; }
         ul.keyframe-post-fader {
                 li {
                         @include bg-abs;
+                        background-attachment: fixed;
                         opacity: 0;
                         @include animation(fade-out 9s infinite both);
-                        background-image: url(https://s3-ap-northeast-1.amazonaws.com/www-capoeirastudio-com/teachers-header.jpg);
+                        background-image: url(https://s3.amazonaws.com/www-falmouth-rip/log-bush.jpg);
                         @media (min-width: $mq-med) {
-                                background-image: url(https://s3-ap-northeast-1.amazonaws.com/www-capoeirastudio-com/mestre-suassuna-blurry-2000px.png);
+                                background-image: url(https://s3.amazonaws.com/www-falmouth-rip/ponsettia-rust.jpg);
                         }
                 }
                 li:nth-child(2) {
-                        background-image: url(https://s3-ap-northeast-1.amazonaws.com/www-capoeirastudio-com/mestre-calango-atabaque-800x1200px.jpeg);
+                        background-image: url(https://s3.amazonaws.com/www-falmouth-rip/zinced.jpg);
                         @include animation-delay(6s);
                         @media (min-width: $mq-med) {
-                                background-image: url(https://s3-ap-northeast-1.amazonaws.com/www-capoeirastudio-com/omizumba-header.jpg);
+                                background-image: url(https://s3.amazonaws.com/www-falmouth-rip/well-rusty.jpg);
                         }
                 }
                 li:nth-child(3) {
-                        background-image: url(https://s3-ap-northeast-1.amazonaws.com/www-capoeirastudio-com/calango-berinjela-berimbau.jpg);
+                        background-image: url(https://s3.amazonaws.com/www-falmouth-rip/walk-rusty.jpg);
                         @include animation-delay(3s);
                         @media (min-width: $mq-med) {
-                                background-image: url(https://s3-ap-northeast-1.amazonaws.com/www-capoeirastudio-com/calango-desafio2016-2000x1300px.jpeg);
+                                background-image: url(https://s3.amazonaws.com/www-falmouth-rip/road-rusty.jpg);
                         }
                 }
         }

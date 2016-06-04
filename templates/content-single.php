@@ -9,7 +9,7 @@
 		        </ul>
 		        <div class="v-center">
 		                <a onmousedown="tick()" onmouseover="pop()" href="<?= esc_url(home_url('/')); ?>">
-		                        <img class="scroll-down" src="https://s3-ap-northeast-1.amazonaws.com/www-capoeirastudio-com/capoeirastudio-whitealpha-icon-600x600px.png" />
+		                        <img class="scroll-down" src="https://s3.amazonaws.com/www-falmouth-rip/rip-icon-inverted-1600x1600px.png" />
 		                </a>
 		                <h1><?php bloginfo('name'); ?></h1>
 		      		<h3 class="wow zoomIn" data-wow-delay="2s">Blog Entry</h3>
