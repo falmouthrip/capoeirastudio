@@ -22,7 +22,7 @@ use Roots\Sage\Wrapper;
     <?php get_template_part('templates/introduction'); ?>
     <?php get_template_part('templates/about'); ?>
     <?php get_template_part('templates/slideshow'); ?>
-    <?php get_template_part('templates/ribbon'); ?>
+    <?php get_template_part('templates/raffle-info'); ?>
     <?php get_template_part('templates/donate'); ?>
     <?php get_template_part('templates/contact'); ?>
     <?php
