@@ -37,7 +37,7 @@
 	                <div class="col-md-3">
 	                        <h2 class="wow bounceIn" data-wow-delay=".1s">FALMOUTH RIP</h2>
 				<p>The purpose of this website is to connect with others that have a vision of making the Falmouth Cemetery Jamaica's most beautiful resting place. This website is a work-in-progress.</p>
-				<p>This website was designed and is maintained by <a href="http://www.quilombola.com/">Quilombola Engineering</a></p>
+				<p>This website was designed and is maintained by <a href="http://www.quilombola.com/"><span style="font-weight: 900">Quilombola Engineering</span></a>. Need a website built? Email <a href="mailto:info@quilombola.com">us</a>.</p>
 	                </div>
                 </div>
 		<div class="row">
