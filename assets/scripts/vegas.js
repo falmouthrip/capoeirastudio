@@ -14,8 +14,8 @@ $(".header").vegas({
       overlay: 'https://s3-ap-northeast-1.amazonaws.com/www-capoeirastudio-com/07.png',
       slides: [
         { src: "https://s3.amazonaws.com/www-falmouth-rip/usain-bolt-1920x1080px.jpg", valign: "70%", transition: "zoomOut" },
-        { src: "https://s3.amazonaws.com/www-falmouth-rip/rex-nettleford-1600x1200px.png", valign: "50%", transition: "swirlRight" },
-        { src: "https://s3.amazonaws.com/www-falmouth-rip/rex-nettleford-1600x1200px.png", valign: "30%", transition: "zoomOut" },
+        { src: "https://s3.amazonaws.com/www-falmouth-rip/rex-nettleford-1600x1200px.png", valign: "75%", transition: "swirlRight" },
+        { src: "https://s3.amazonaws.com/www-falmouth-rip/ben-johnson-2000x1300px.png", valign: "30%", transition: "zoomOut" },
         { src: "https://s3.amazonaws.com/www-falmouth-rip/rex-nettleford-1600x1200px.png", align: "10%", transition: "blur" },
       ],
       animation: 'kenburnsUpLeft',
