@@ -4,7 +4,7 @@
 			<div class="col-lg-8 col-lg-offset-2 text-center">
 				<h2 class="section-heading">Donate</h2>
 				<hr class="primary">
-				<p>Do you share the same vision as Falmouth RIP? Please support Falmouth RIP in its goal of becoming the premier resting place in Jamaica. No donation is too small. Please click on the link below to donate via PayPal.</p>
+				<p>Do you have a vision for a better Jamaica? So do we. Please support Falmouth RIP in its goal of becoming the premier resting place in Jamaica. No donation is too small. Please click on the link below to donate via PayPal.</p>
 				<hr class="primary">
 			</div>
 		</div>
