@@ -23,4 +23,24 @@ $(".header").vegas({
 });
 
 
+$(".slideshow").vegas({
+      timer: false,
+      delay: 7000,
+      preload: true,
+      overlay: 'https://s3-ap-northeast-1.amazonaws.com/www-capoeirastudio-com/07.png',
+      slides: [
+        { src: "https://s3.amazonaws.com/www-falmouth-rip/log-bush.jpg", valign: "25%", transition: "zoomOut" },
+        { src: "https://s3.amazonaws.com/www-falmouth-rip/ponsettia-rust.jpg", valign: "75%", transition: "swirlRight" },
+        { src: "https://s3.amazonaws.com/www-falmouth-rip/road-rusty.jpg", valign: "25%", transition: "zoomOut" },
+        { src: "https://s3.amazonaws.com/www-falmouth-rip/walk-rusty.jpg", align: "75%", transition: "blur" },
+        { src: "https://s3.amazonaws.com/www-falmouth-rip/bar-rusty.jpg", valign: "5%", transition: "zoomOut" },
+        { src: "https://s3.amazonaws.com/www-falmouth-rip/box-food.jpg", valign: "25%", transition: "swirlRight" },
+        { src: "https://s3.amazonaws.com/www-falmouth-rip/bush-trash.jpg", valign: "55%", transition: "zoomOut" },
+        { src: "https://s3.amazonaws.com/www-falmouth-rip/bushy-gravel.JPG", align: "75%", transition: "blur" },
+      ],
+      animation: 'kenburnsUpLeft',
+      transitionDuration: 9000,
+});
+
+
 })(jQuery); // End of use strict
