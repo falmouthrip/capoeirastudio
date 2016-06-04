@@ -8,13 +8,13 @@
 			<hr>
 			<h3 class="white-icons">
 				<div class="col-xs-4">
-					<a href="#contact"><i class="fa fa-envelope-o"></i></a> CONTACT US
+					<a href="#contact" src="page-scroll"><i class="fa fa-envelope-o"></i></a> CONTACT US
 				</div>
 				<div class="col-xs-4">
-					<a href="/raffle-ticket/"><i class="fa fa-question-circle-o"></i></a> RAFFLE INFO
+					<a href="#raffle-info" src="page-scroll"><i class="fa fa-question-circle-o"></i></a> RAFFLE INFO
 				</div>
 				<div class="col-xs-4">
-					<a href="#donate"><i class="fa fa-money"></i></a> DONATE NOW
+					<a href="#donate" src="page-scroll"><i class="fa fa-money"></i></a> DONATE NOW
 				</div>
 			</h3>
 		</div>
