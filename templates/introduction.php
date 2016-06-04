@@ -2,7 +2,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-8 col-lg-offset-2 text-center">
-				<h2 class="section-heading">FALMOUTH</h2>
+				<h2 class="section-heading didot-font">falmouth</h2>
 				<h2 class="section-heading"><img src="https://s3.amazonaws.com/www-falmouth-rip/rip-icon-inverted-1600x1600px.png" width="75px"></h2>
 				<hr class="light">
 				<p class="text-faded">Falmouth RIP is a website committed to making the Falmouth Cemetery an ever beautiful and sacred place to be burried.</p>
