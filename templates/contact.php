@@ -2,9 +2,9 @@
 	<div class="container-fluid">
 		<div class="row">
 			<div class="col-lg-8 col-lg-offset-2 text-center">
-				<h2 class="section-heading">Let's Get In Touch!</h2>
+				<h2 class="section-heading">Let's Keep In Touch!</h2>
 				<hr class="primary">
-				<p>Need further information? Please contact Falmouth RIP via telephone/Whatsapp, Facebook Messenger, or email.</p>
+				<p>Need further information? Please subscribe to our <a href="http://eepurl.com/b4vXWP">newsletter</a> and stay in touch with Falmouth RIP via telephone/Whatsapp, Twitter, or email.</p>
 			</div>
 		</div>
 		<div class="row">
@@ -12,7 +12,7 @@
 				<p><a href="tel:010-9090-9183"><i class="fa fa-phone fa-3x wow bounceIn" data-wow-delay=".1s"></i></a></p>
 			</div>
 			<div class="col-lg-2 text-center">
-				<p><a href="http://www.facebook.com/falmouthrip"><i class="fa fa-facebook fa-3x wow bounceIn" data-wow-delay=".1s"></i></a></p>
+				<p><a href="http://www.twitter.com/falmouthrip"><i class="fa fa-twitter fa-3x wow bounceIn" data-wow-delay=".1s"></i></a></p>
 			</div>
 			<div class="col-lg-2 text-center">
 				<p><a href="mailto:info@capoeirastudio.com"><i class="fa fa-envelope-o fa-3x wow bounceIn" data-wow-delay=".1s"></i></a></p>
