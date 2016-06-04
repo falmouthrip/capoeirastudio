@@ -2,9 +2,14 @@
 --Header
 -----------------------------------------------  */
 
-.header-content {
+.header {
 	padding: 2em 0;
 	@include overlay($color-dark, 0.8);
+}
+
+.header-content {
+	padding: 2em 0;
+	z-index: 7;
 }
 
 a {
