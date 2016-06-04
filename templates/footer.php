@@ -43,7 +43,7 @@
 		<div class="row">
                         <div class="col-md-4 col-md-offset-4 text-center">
                                 <img src="https://s3.amazonaws.com/www-falmouth-rip/rip-icon-inverted-1600x1600px.png" class="wow bounceIn text-primary" data-wow-delay=".1s" style="visibility: visible; animation-name: bounceIn; -webkit-animation-name: bounceIn;">
-				<p class="didot-font" style="font-weight: 900">falmouth, jamaica</a>
+				<p class="didot-font" style="font-weight: 900">falmouth, jamaica</p>
                         </div>
                 </div>
         </div>
